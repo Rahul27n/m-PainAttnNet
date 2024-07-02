@@ -10,6 +10,8 @@ m-PainAttnNet
 \---src
     |   m-PainAttnNet.ipynb # Implementation of Multimodal PainAttnNet Model
     |   m-PainAttnNet_Ablation_Study.ipynb # Ablation Studies on Multimodal PainAttnNet Model for various classification tasks
+|   Final_Presentation.pptx
+|   Project_Paper.pdf
 ```
 
 ## Requirements
